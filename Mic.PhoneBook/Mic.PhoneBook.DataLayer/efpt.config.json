@@ -1,0 +1,29 @@
+﻿{
+   "ContextClassName": "MicphonebookdbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Entities",
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "Mic.PhoneBook.DataLayer",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Phone]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
