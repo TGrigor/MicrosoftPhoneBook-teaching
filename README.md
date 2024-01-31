@@ -15,6 +15,7 @@ The main purpose of this event was to:
 
 ## Event Photo
 ![Live Coding Session](/files/1343.jpg)
+![Live Coding Session](/files/1334.jpg)
 *The above photo captures a moment from the live coding session, where participants were engaged in learning about practical aspects of application development.*
 
 ## Getting Started
